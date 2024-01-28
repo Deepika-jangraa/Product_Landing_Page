@@ -1,8 +1,10 @@
 # Product_Landing_Page
 This is a product landing page template for showcasing a revolutionary smart fitness tracker. The landing page is designed to provide an engaging and interactive experience for visitors, highlighting the product's features and benefits. It uses CSS columns and responsive design to ensure a seamless user experience across various devices.
+
 # Product Landing Page
 
-![Product Landing Page Screenshot](Screenshot(831).png)
+![Screenshot (831)](https://github.com/Deepika-jangraa/Product_Landing_Page/assets/135499747/8463a8e9-5a4b-4548-bdfb-d06dc9820cf9)
+
 
 ## Overview
 
@@ -28,7 +30,7 @@ This is a simple product landing page project showcasing a smart fitness tracker
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/product-landing-page.git`
+1. Clone the repository: `git clone https://github.com/Deepika-jangraa/Product_Landing_Page.git`
 2. Navigate to the project folder: `cd product-landing-page`
 3. Open `index.html` in your web browser.
 
